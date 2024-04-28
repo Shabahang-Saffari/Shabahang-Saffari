@@ -1,5 +1,7 @@
 ## :raising_hand_man: My name is Shabahang...
 
+Passionate Full-Stack developer with expertise in React.js, JavaScript, Node.js, Express.js and more. Committed to crafting efficient, user-centric solutions.
+
 **My coding** journey began with C++, but it was during my Bachelor of Software Engineering when I explored C# that my passion for programming truly ignited. Delving into the world of Object-Oriented Programming, I found joy in crafting projects such as a Persian calendar, which fueled my desire to delve deeper into software engineering.
 
 Simultaneously, my passion for the art of creation led me to pursue a master’s degree in music composition. I always knew I would return to software engineering world. Thus, I embarked on a journey to refresh and expand my programming skills. I started taking programming courses such as Python, JavaScript, React.js, and Node.js. These courses not only brought me up to date with the latest developments in the field but also provided me with the tools to translate my creative instincts into innovative software solutions.
