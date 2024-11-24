@@ -9,7 +9,7 @@ always knew I would return to the software engineering world. Thus, I embarked o
 
 I embarked on a journey to refresh and expand my programming skills. I started taking programming courses such as Python, JavaScript, React.js, and Node.js. These courses not only brought me up to date with the latest developments in the field but also provided me with the tools to translate my creative instincts into innovative software solutions.
 
-As a Lead Full-Stack Developer at KeelWorks Foundation, I’ve tackled complex projects, taking full ownership of both front-end and back-end development. This role strengthened my technical skills and my ability to lead teams to deliver impactful, scalable solutions. I'm now excited to pursue new challenges in software engineering. Feel free to reach out and connect!
+As a Lead Full-Stack Developer at KeelWorks Foundation, I’ve tackled complex projects, taking full ownership of both front-end and back-end development. This role strengthened my technical skills and my ability to lead teams to deliver impactful, scalable solutions. I'm now excited to pursue new challenges in software engineering/ IT roles. Feel free to reach out and connect!
 
 📫
 **How to reach me:**
